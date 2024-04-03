@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hugo</h1>
-<h3 align="center">A student @ UTC 👨‍💻 and a software engineer @ Airbus Defence & Space 🚀</h3>
+
+- A student @ [UTC](https://www.utc.fr/) 👨‍💻 and a software engineer @ [Airbus_Defence_&_Space](https://www.airbus.com/en/defence) 🚀
 
 ## Contact
-🧑‍💻 I'm a software engineer with 2 years of experience in web development. <br/>
+🧑‍💻 I'm a software engineer with 2 years of experience. <br/>
 🚀 Constantly learning new technologies and building projects. <br/> 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hugopereira75/) <br/>
 
