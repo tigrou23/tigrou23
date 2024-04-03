@@ -6,7 +6,7 @@
 📫 Please reach me: [LinkedIn](https://www.linkedin.com/in/hugopereira75/) <br/>
 
 ## My resume
-[https://tigrou23.github.io/CV](https://tigrou23.github.io/CV) 
+📄 [https://tigrou23.github.io/CV](https://tigrou23.github.io/CV) 
 
 _LaTeX files are automatically compiled and published by a github action._
 
