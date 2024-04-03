@@ -76,3 +76,5 @@ ___
   Suivez-moi sur
   <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
 </a>
+
+[![Suivez-moi sur Strava](https://badges.strava.com/logo-strava-echelon.png)](https://strava.com/athletes/59650377)
