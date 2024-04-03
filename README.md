@@ -6,7 +6,9 @@
 📫 Please reach me: [LinkedIn](https://www.linkedin.com/in/hugopereira75/) <br/>
 
 ## My resume
-[https://tigrou23.github.io/CV](https://tigrou23.github.io/CV) _(automatically updated by a github action)_
+[https://tigrou23.github.io/CV](https://tigrou23.github.io/CV) 
+
+_(automatically updated by a github action)_
 
 ## 🛠 Tech Stack
 [![wakatime](https://wakatime.com/badge/user/018e7fee-1d78-4494-b440-d926579e9500.svg)](https://wakatime.com/@018e7fee-1d78-4494-b440-d926579e9500)
