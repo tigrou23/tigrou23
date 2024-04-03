@@ -2,8 +2,6 @@
 
 - A student @ [UTC](https://www.utc.fr/) 👨‍💻 and a software engineer @ [Airbus_Defence_&_Space](https://www.airbus.com/en/defence) 🚀
 
-[![wakatime](https://wakatime.com/badge/user/018e7fee-1d78-4494-b440-d926579e9500.svg)](https://wakatime.com/@018e7fee-1d78-4494-b440-d926579e9500)
-
 ## Contact
 📫 Please reach me: [LinkedIn](https://www.linkedin.com/in/hugopereira75/) <br/>
 
@@ -11,6 +9,7 @@
 [https://tigrou23.github.io/CV](https://tigrou23.github.io/CV)
 
 ## 🛠 Tech Stack
+[![wakatime](https://wakatime.com/badge/user/018e7fee-1d78-4494-b440-d926579e9500.svg)](https://wakatime.com/@018e7fee-1d78-4494-b440-d926579e9500)
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   <br/>
