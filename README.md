@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Hugo</h1>
+<h1 align="center">Hi 👋, I'm Hugo</h1> 
 
 - A student @ [UTC](https://www.utc.fr/) 👨‍💻 and a software engineer @ [Airbus_Defence_&_Space](https://www.airbus.com/en/defence) 🚀
 
+[![wakatime](https://wakatime.com/badge/user/018e7fee-1d78-4494-b440-d926579e9500.svg)](https://wakatime.com/@018e7fee-1d78-4494-b440-d926579e9500)
+
 ## Contact
-🧑‍💻 I'm a software engineer with 2 years of experience. <br/>
-🚀 Constantly learning new technologies and building projects. <br/> 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hugopereira75/) <br/>
+📫 Please reach me: [LinkedIn](https://www.linkedin.com/in/hugopereira75/) <br/>
 
 ## My resume
 [https://tigrou23.github.io/CV](https://tigrou23.github.io/CV)
