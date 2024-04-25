@@ -10,7 +10,7 @@
 ## My resume
 📄 [https://tigrou23.github.io/resume](https://tigrou23.github.io/resume) 
 
-> _LaTeX files are automatically compiled and published by a github action._
+> _LaTeX files are automatically compiled and published by a GitHub Action._
 
 ## 🛠 Tech Stack
 [![wakatime](https://wakatime.com/badge/user/018e7fee-1d78-4494-b440-d926579e9500.svg)](https://wakatime.com/@018e7fee-1d78-4494-b440-d926579e9500)
