@@ -14,9 +14,6 @@
 
 [![Upload when release and Update Pages](https://github.com/tigrou23/resume/actions/workflows/PDF_generation.yml/badge.svg)](https://github.com/tigrou23/resume/actions/workflows/PDF_generation.yml)
 
-https://img.shields.io/badge/Strava-you_like-orange
-
-
 ## 🛠 Tech Stack
 [![wakatime](https://wakatime.com/badge/user/018e7fee-1d78-4494-b440-d926579e9500.svg)](https://wakatime.com/@018e7fee-1d78-4494-b440-d926579e9500)
 
