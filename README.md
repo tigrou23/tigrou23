@@ -14,6 +14,13 @@
 
 [![Upload when release and Update Pages](https://github.com/tigrou23/resume/actions/workflows/PDF_generation.yml/badge.svg)](https://github.com/tigrou23/resume/actions/workflows/PDF_generation.yml)
 
+## 🔑 GPG Key
+For secure communication, my GPG key is available at the following links:
+- [GitHub GPG Key](https://github.com/tigrou23.gpg)
+- [OpenPGP Key Directory](https://keys.openpgp.org/search?q=hugo0807pereira%40gmail.com)
+
+> Feel free to use it for encrypted messages!
+
 ## 🛠 Tech Stack
 [![wakatime](https://wakatime.com/badge/user/018e7fee-1d78-4494-b440-d926579e9500.svg)](https://wakatime.com/@018e7fee-1d78-4494-b440-d926579e9500)
 
